@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5 e CSS3
 - JavaScript e JSON
+- Git e GitHub
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
