@@ -1,14 +1,16 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Rocketpay </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--mostre-seu-apoio">Mostre seu apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo--licença">Licença</a>
 </p>
 
 <p align="center">
@@ -21,28 +23,67 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻  Projeto
+
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Desenvolvido durante o Explorer-Lab-01, evento organizado pela Rocketseat.
+
+## ⚡  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5 e CSS3
 - JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-## 💻 Projeto
+## 🤝  Como Contribuir
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+```bash
+  # Clone o projeto
+  $ git clone https://github.com/antonio2812/rocketpay.git
+````
 
-## 🔖 Layout
+```bash
+  # Entrar no diretório
+  $ cd calendario-de-jogos
+```
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+```bash
+  # Instale as dependências utilizando o npm
+  $ npm install
+```
 
-## :memo: Licença
+```bash
+  # Executar
+  $ npm start
+```
 
-Esse projeto está sob a licença MIT.
+<p align="center">Ou</p>
 
----
+```bash
+  # Instale as dependências utilizando o yarn
+  $ yarn
+```
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+```bash
+  # Executar
+  $ yarn start
+```
+
+## 👤  Autor
+
+**Antonio  Carlos**
+
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior-03783221b/)
+* [Gmail](mailto:acarlosdesouzajunior@gmail.com)
+* [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
+* [Discord](https://discord.com/channels/@me)
+
+## ✨  Mostre seu apoio
+
+Dar uma⭐️se esse projeto te ajudou ou inspirou!
+
+## :memo:  Licença
+
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/calendario-de-jogos/blob/main/LICENSE">LICENSE</a> para mais detalhes.
