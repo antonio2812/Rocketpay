@@ -41,12 +41,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
   # Clone o projeto
-  $ git clone https://github.com/antonio2812/rocketpay.git
+  $ git clone https://github.com/antonio2812/Rocketpay.git
 ````
 
 ```bash
   # Entrar no diretório
-  $ cd calendario-de-jogos
+  $ cd Rocketpay
 ```
 
 ```bash
@@ -86,4 +86,4 @@ Dar uma⭐️se esse projeto te ajudou ou inspirou!
 
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/calendario-de-jogos/blob/main/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/Rocketpay/blob/main/LICENSE">LICENSE</a> para mais detalhes.
